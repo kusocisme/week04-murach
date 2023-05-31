@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4abebc03-3a5e-41b4-a3d7-1156f1cd0c6c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoa/data/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khoa/data/UserDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,7 @@
       <updated>1685540480850</updated>
       <workItem from="1685540482109" duration="1734000" />
       <workItem from="1685542729316" duration="65000" />
-      <workItem from="1685543472832" duration="2193000" />
+      <workItem from="1685543472832" duration="2868000" />
     </task>
     <servers />
   </component>
