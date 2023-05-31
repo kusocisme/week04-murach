@@ -16,7 +16,7 @@ public class UserDB {
 	public UserDB() {
 		// TODO Auto-generated constructor stub
 	}
-	
+	//kusocisme
 	public void saveUser(User user) {
         Transaction transaction = null;
         try (Session session = HibernateUtil.getSessionFactory().openSession()) {
