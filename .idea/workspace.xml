@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="FinalHotelNew:war" />
       <artifact name="FinalHotelNew:war exploded" />
     </artifacts-to-build>
   </component>
@@ -10,11 +9,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4abebc03-3a5e-41b4-a3d7-1156f1cd0c6c" name="Changes" comment="" />
+    <list default="true" id="4abebc03-3a5e-41b4-a3d7-1156f1cd0c6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khoa/data/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khoa/data/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/murach/business/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/murach/data/UserDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/murach/email/EmailListServlet.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -43,7 +51,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/HocHanh/WebPrograming/Upload/quochoangdeptrai",
+    "last_opened_file_path": "D:/HocHanh/WebPrograming/Upload/week06-murach-servey",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -103,6 +115,7 @@
       <updated>1685540480850</updated>
       <workItem from="1685540482109" duration="1734000" />
       <workItem from="1685542729316" duration="65000" />
+      <workItem from="1685543472832" duration="896000" />
     </task>
     <servers />
   </component>
